@@ -14,7 +14,7 @@ const projects = [
     description:
       "A workout tracking application designed to help users explore workouts and manage their fitness activities.",
     technologies: ["Next.js", "TypeScript", "Tailwind CSS"],
-    image: "/fitlog.png",
+    image: "/fitlog.PNG",
   },
   {
     slug: "bangla-news-24",
@@ -23,7 +23,7 @@ const projects = [
     description:
       "A Bangla news portal that presents news articles in a clean layout with organized content and easy navigation.",
     technologies: ["Next.js", "TypeScript", "Tailwind CSS"],
-    image: "/bangla-news-24.png",
+    image: "/bangla-news-24.PNG",
   },
   {
     slug: "book-vibe",
@@ -32,7 +32,7 @@ const projects = [
     description:
       "A book-focused web application for browsing a collection of books and exploring reading-related information.",
     technologies: ["Next.js", "JavaScript", "Tailwind CSS"],
-    image: "/book-vibe.png",
+    image: "/book-vibe.PNG",
   },
 ];
 
